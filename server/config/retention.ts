@@ -1,0 +1,2 @@
+export const CHECKING_HISTORY_DAYS = 30;
+export const ENQUIRY_RETENTION_DAYS = 90;

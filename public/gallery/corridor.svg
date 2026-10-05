@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Corridor placeholder">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2b4d73"/><stop offset="1" stop-color="#0f2540"/></linearGradient></defs>
+<rect width="640" height="400" fill="url(#g)"/>
+<circle cx="540" cy="80" r="46" fill="#e8a317" opacity=".9"/>
+<polygon points="100,260 520,260 440,120 180,120" fill="#fff" opacity=".35"/><rect x="190" y="130" width="40" height="110" fill="#fff" opacity=".7"/><rect x="290" y="130" width="40" height="110" fill="#fff" opacity=".7"/><rect x="390" y="130" width="40" height="110" fill="#fff" opacity=".7"/>
+<rect x="0" y="262" width="640" height="138" fill="#0f2540" opacity=".35"/>
+<text x="24" y="372" font-family="Georgia, serif" font-size="22" fill="#fff" opacity=".85">Corridor - placeholder image, replace with a real photo</text>
+</svg>

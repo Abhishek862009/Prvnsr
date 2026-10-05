@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #1e3a5f;
+  --color-paper: #f6f4ef;
+  --color-status-complete: #15803d;
+  --color-status-pending: #dc2626;
+  --color-status-vacant: #6b7280;
+  --color-marigold: #f2b33d;
+  --color-marigold-deep: #b7791f;
+  --color-ink-deep: #0f2540;
+  --font-display: Georgia, "Times New Roman", serif;
+}

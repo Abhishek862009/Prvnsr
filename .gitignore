@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+.vercel/
+next-env.d.ts
+*.tsbuildinfo
+
+# Secrets and private data - never commit
+.env
+.env.*
+!.env.example
+*.zip
+backups/
+*.log

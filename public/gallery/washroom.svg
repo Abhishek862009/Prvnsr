@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Washrooms placeholder">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#24476e"/><stop offset="1" stop-color="#0f2540"/></linearGradient></defs>
+<rect width="640" height="400" fill="url(#g)"/>
+<circle cx="540" cy="80" r="46" fill="#e8a317" opacity=".9"/>
+<rect x="120" y="130" width="90" height="130" rx="6" fill="#fff" opacity=".85"/><rect x="240" y="130" width="90" height="130" rx="6" fill="#fff" opacity=".6"/><rect x="360" y="130" width="90" height="130" rx="6" fill="#fff" opacity=".85"/><circle cx="165" cy="180" r="8" fill="#e8a317"/><circle cx="285" cy="180" r="8" fill="#e8a317"/><circle cx="405" cy="180" r="8" fill="#e8a317"/>
+<rect x="0" y="262" width="640" height="138" fill="#0f2540" opacity=".35"/>
+<text x="24" y="372" font-family="Georgia, serif" font-size="22" fill="#fff" opacity=".85">Washrooms - placeholder image, replace with a real photo</text>
+</svg>
